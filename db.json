@@ -1,0 +1,58 @@
+{
+  "anime": [
+    {
+      "id": 1,
+      "title": "Naruto: Shippuden",
+      "type": "TV",
+      "aired_from": "2007-02-15",
+      "aired_to": "2017-03-23",
+      "background": {
+        "broadcast_day": "Thursday",
+        "broadcast_time": "19:00",
+        "duration": "24 minutes",
+        "total_episodes": 500
+      },
+      "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy"],
+      "images": {
+        "small": "https://example.com/naruto-small.jpg",
+        "medium": "https://example.com/naruto-medium.jpg",
+        "large": "https://example.com/naruto-large.jpg"
+      },
+      "rating": 8.5,
+      "rank": 10,
+      "status": "Finished Airing",
+      "synopsis": "Naruto: Shippuden is a Japanese anime series that follows the story of Naruto Uzumaki, a young ninja from the Hidden Leaf Village.",
+      "trailer": {
+        "image": "https://example.com/naruto-trailer.jpg",
+        "url": "https://example.com/naruto-trailer.mp4"
+      }
+    },
+    {
+      "id": 2,
+      "title": "One Piece",
+      "type": "TV",
+      "aired_from": "1999-10-20",
+      "aired_to": "ongoing",
+      "background": {
+        "broadcast_day": "Sunday",
+        "broadcast_time": "21:00",
+        "duration": "24 minutes",
+        "total_episodes": 1000
+      },
+      "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy"],
+      "images": {
+        "small": "https://example.com/one-piece-small.jpg",
+        "medium": "https://example.com/one-piece-medium.jpg",
+        "large": "https://example.com/one-piece-large.jpg"
+      },
+      "rating": 9.0,
+      "rank": 5,
+      "status": "Currently Airing",
+      "synopsis": "One Piece is a Japanese anime series that follows the story of Monkey D. Luffy, a young pirate on a quest to become the Pirate King.",
+      "trailer": {
+        "image": "https://example.com/one-piece-trailer.jpg",
+        "url": "https://example.com/one-piece-trailer.mp4"
+      }
+    }
+  ]
+}
